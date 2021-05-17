@@ -1,0 +1,23 @@
+# .exe files
+*.exe   
+
+# binary files
+*
+!*.*
+!*/
+!Makefile
+### Above combination will ignore all files without extension => beware ###
+
+# compiled files
+*.o
+
+# vscode settings
+.vscode/
+.vscode/*
+*.vscode/
+*.vscode/*
+
+# output files
+*.csv
+*.txt
+
